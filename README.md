@@ -63,7 +63,7 @@ make fclean
 ./program [args]
 ```
 
-**Makefile contract** (expected in 42): targets `all`, `clean`, `fclean`, `re`; variables `CXX`, `CXXFLAGS`, `NAME`, `SRCS`, `OBJS`, `INCS`.
+**Makefile contract** (expected in 1337): targets `all`, `clean`, `fclean`, `re`; variables `CXX`, `CXXFLAGS`, `NAME`, `SRCS`, `OBJS`, `INCS`.
 
 ---
 
@@ -273,7 +273,7 @@ cd CPP00/ex01 && make && ./phonebook
 ## Makefile Template
 
 ```Makefile
-# Generic 42 Makefile for an exercise
+# Generic 1337 Makefile for an exercise
 
 NAME    := program
 CXX     := c++
